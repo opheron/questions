@@ -1,4 +1,4 @@
-"African Proverb Says ""The child who is not embraced by the village will burn it down to feel the warmth"" What time in your life have you been closest to starting the fire?"
+A proverb says, "The child who is not embraced by the village will burn it down to feel its warmth."" What time in your life have you been closest to starting the fire?"
 If “OK Boomer” was a digital assistant like “OK Google” what sorts of answers would it give you to certain questions?
 Suicide Prevention Megathread
 "If instead of rebooting movies, retelling them from a different point of view became popular, which movie would you like retold?"
@@ -825,9 +825,6 @@ What would be included in a Premium version of sleep?
 What’s a tip that everyone should know which might one day save their life?
 What do you genuinely just not understand?
 What’s the stupidest thing you’ve seen a grown-ass adult get angry over?
-What’s the one horror movie that genuinely terrified you while watching it?
-[Serious] What is the scariest thing to happen to you when you’ve been home alone?
-What's the best way to waste $100?
 What do you know about your workplace that you are not supposed to know?
 Lord of the rings is rated PG-13 and is allowed one f bomb. Where would you put it?
 "skyscraper window cleaners of reddit, what is most bizarre thing you’ve ever seen on the job?"
