@@ -931,11 +931,4 @@ What movies would be a lot shorter if the main character just did what the fuck 
 You're a reverse robber. You break into peoples home and leave stuff to confuse families. What things do you leave?
 What’s a simple thing someone can do to better their life?
 "Atheists of reddit, what is one thing you admire about religion? Religious people of reddit, what is one thing you admire about atheism?"
-What’s the most fun you can have with $20?
-What are things from the early days of the internet that you don’t see much of anymore?
-[Serious] What are some of the biggest mistakes people can make in their 20s?
-"What looked amazing in the ads, but turned out to be useless after you bought it?"
-What's something small you can start doing today to better yourself?
-
-"What's the worst case of ""rich kid syndrome"" you've seen?"
 "With the adage ""nothing is ever deleted from the Internet"" in mind, what is something you HAVE seen vanish from the net?"
