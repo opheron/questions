@@ -10,3 +10,4 @@
 10. What looks easy but is actually difficult?
 11. What do you KNOW is true without evidence? What are you certain of, right down to your bones, without proof?"
 12. Have you ever felt you don't know/have forgotten who you really are? That you've spent years just adapting to surroundings to make life easier and don't know what's the real you anymore? If so, how did you overcome this?
+13. How’s life so far?
