@@ -936,7 +936,6 @@ What are things from the early days of the internet that you don’t see much of
 [Serious] What are some of the biggest mistakes people can make in their 20s?
 "What looked amazing in the ads, but turned out to be useless after you bought it?"
 What's something small you can start doing today to better yourself?
-What is something that you are NEVER FUCKING BUYING AGAIN?
+
 "What's the worst case of ""rich kid syndrome"" you've seen?"
-What actor is the most guilty of playing the same exact character in every film?
 "With the adage ""nothing is ever deleted from the Internet"" in mind, what is something you HAVE seen vanish from the net?"
