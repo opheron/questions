@@ -917,18 +917,13 @@ What was the most porno situation you’ve ever had?
 "You choose a superpower, but every time you activate it you turn into a pig. What is it?"
 "Pizza delivery drivers of reddit, what was the most fucked up place you’ve ever stopped at?"
 "Teachers who regularly get invited to high school reunions, what are the most amazing transformations, common patterns, epic stories, saddest declines etc. you've seen through the years?"
-What would 12 yr old you think of how you are now?
-What is the best loophole that you've ever found?
+
 "What movie could have been over in 10 minutes, if the main character wasn't such a dumb ass?"
 "If 0 is entirely evil and 100 is entirely good, what number are you? Why?"
-What TV Show has the best Pilot episode?
-Redditors who clean up crime scenes - what's the most bizarre thing you've witnessed?
-What would your 13 year old self think of you now?
-What would happen if everyone you’ve ever masturbated to were in the same room?
-"With all the talk about walking out of Holmes and Watson, what movies have you walked out on?"
+"With all the talk about walking out of Holmes and Watson, "
 What movies would be a lot shorter if the main character just did what the fuck they were told?
 "What is the one story you want to tell, that you can never fit into a conversation?"
 You're a reverse robber. You break into peoples home and leave stuff to confuse families. What things do you leave?
-What’s a simple thing someone can do to better their life?
+
 "Atheists of reddit, what is one thing you admire about religion? Religious people of reddit, what is one thing you admire about atheism?"
 "With the adage ""nothing is ever deleted from the Internet"" in mind, what is something you HAVE seen vanish from the net?"
