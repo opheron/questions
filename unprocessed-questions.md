@@ -1,12 +1,3 @@
-
-The 2010's decade will be over in 4 months. What do you think people will remember this decade for?
-
-"Girls who took notes using 50 different colored pens, where are you now? Do you still continue to write using all those colors?"
-"If Covid-19 wasn’t dominating the news right now, what would be some of the biggest stories be right now?"
-You have just been cheated out of $1000 for a stupid brick. How do you take revenge?
-What is something free from the internet everyone should take advantage of?
-"A new dating app is launched. Instead of a photo of the person, it shows you a photo of their bedroom, car, kitchen, shoes, how they have their tea/coffee, things like that... what photo would tell you the most about someone, and would you be most interested to see to choose a potential date?"
-You gain control of JK Rowling's twitter account for a day. What unnecessary piece of information do you add to Harry Potter lore?
 "African Proverb Says ""The child who is not embraced by the village will burn it down to feel the warmth"" What time in your life have you been closest to starting the fire?"
 If “OK Boomer” was a digital assistant like “OK Google” what sorts of answers would it give you to certain questions?
 Suicide Prevention Megathread
@@ -949,4 +940,3 @@ What is something that you are NEVER FUCKING BUYING AGAIN?
 "What's the worst case of ""rich kid syndrome"" you've seen?"
 What actor is the most guilty of playing the same exact character in every film?
 "With the adage ""nothing is ever deleted from the Internet"" in mind, what is something you HAVE seen vanish from the net?"
-"What was your scariest ""A second later and I would've died"" moment?"
