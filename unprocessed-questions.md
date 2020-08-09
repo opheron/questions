@@ -230,7 +230,7 @@ What’s a NSFW detail about a historical figure that’s normally left out of t
 "Parents who knock on their kids' doors and then immediately open it anyway, what's your thought process?"
 What's the most kind/beautiful thing you've overheard about yourself by accident?
 "You have been appointed Gosh, God's assistant for smaller, less serious everyday business. What are some of your policies and if neccessary, how do you explain them to/conceal them from your boss?"
-"You will get $10 million cash but Samuel L Jackson will be there to shout ""motherfucker"" for every dollar you spend, will you be happy? And Why?"
+"You will get \$10 million cash but Samuel L Jackson will be there to shout ""motherfucker"" for every dollar you spend, will you be happy? And Why?"
 "What was your ""This person is on another level of stupid"" moment?"
 What’s something that people think makes them look cool but actually has the opposite effect?
 What are some VERY comforting facts?
@@ -328,7 +328,7 @@ What’s an insult that sounds like a compliment?
 What sounds like fiction but is actually a real historical event?
 "Hey Reddit, When did your “Somethings not right here” gut Feeling ever save you?"
 You’ve been granted immortality. You’re a minimum wage worker with a useless degree and crippling student debt. What’s your immortal life plan?
-"What is something that makes you say ""Man, I f***ing hate people""?"
+"What is something that makes you say ""Man, I f*\*\*ing hate people""?"
 What evil prank have you pulled off?
 What would happen if Facebook shut down and all its 1.2 billion users moved to Reddit?
 "People who honk in traffic jams, what are you trying to achieve?"
@@ -391,7 +391,7 @@ What is the worst thing you've overheard while pretending to be asleep?
 what are good reasons to live?
 Driver's License testers- what's the worst thing a kid has done without batting an eye while taking the driving test?
 "What are the best, most useful, must-have Google Chrome extensions?"
-What did you think you were really good at until you saw someone who was *actually* really good at it?
+What did you think you were really good at until you saw someone who was *actually\* really good at it?
 "Redditors who lived in countries that no longer exist (Like Yugoslavia, Czechoslovakia...etc) What was it like to see your country breakup?"
 What only exists because humans are dumb?
 "You are offered 10 million dollars but you have to participate in a porn movie that your family and friends are going to be aware of, do you take this offer or not? Why?"
@@ -794,7 +794,7 @@ What is considered cute when done by a kid but illegal when done by an adult?
 "Cops of reddit, what’s the most bullshit sounding excuse you got that actually turned out to be true?"
 What makes a person boring?
 "Deaf community of reddit, what are the stereotypical alcohol induced communication errors when signing with a drunk person?"
-You are given a brick and told to sell it for $1000. If you succeed you get $1million. You cannot tell anyone your goal. What is your plan?
+You are given a brick and told to sell it for $1000. If you succeed you get \$1million. You cannot tell anyone your goal. What is your plan?
 "Zeus has decided that Olympus feels a little empty, so he’s recruited some new gods. However, due to a clerical error, you have been chosen as a new member of the divine. What are you the god of, and what do you do as your first godly act?"
 "If a premium version of sleep were to exist, what features would it include?"
 You are meeting your new boyfriend/girlfriends parents at their house for dinner for the first time. Your new bf/gf leaves to go to the bathroom. What do you say to their parents to create a maximum level of awkwardness for the rest of the evening before they come back from bathroom?
@@ -881,13 +881,7 @@ What brands or companies are actually evil?
 "You're Stan, Satan's half-wit brother. Satan is taking a week of vacation and leaving you in charge. What kind of fucked-up quasi-punishments do you issue while Satan's out?"
 "Is “dude” a gender neutral word? If not, what are some gender neutral alternatives?"
 What's the most awkward situation you've ever been in with a stranger?
-"Redditors who rage quit a job without thinking, what was the last straw?"
-"People who watch security cameras for a living, what creepy things have you tried to forget?"
-"Hunters of Reddit, what did you see out there that made you not want to go back into the woods?"
-What's a random fact about you?
 What is your favorite thing in your 'SAVED' section?
-What’s something the internet killed that you miss?
-"[Serious] Autistic people of Reddit, what do you wish more people knew about Autism?"
 "Other than doing the homework while the teacher is collecting it, what’s an “extreme sport”?"
 "Today is Danny Devito’s 75th birthday, How should Reddit celebrate and What will our gift be to him?"
 What’s a family secret you didn’t get told until you were older that made things finally make sense?
@@ -895,32 +889,20 @@ What’s a family secret you didn’t get told until you were older that made th
 What is currently happening that is scaring you?
 "People who posted their story on Reddit and the person in said story found it, how did it go?"
 "You are now the manager of purgatory, it’s a mix between heaven and hell. How would you make people uncomfortable, while they can also enjoy things?"
-What has been your biggest fuck-up leading up to this point in life?
-You've been granted the power to bless people with minor conveniences. How do you make their lives slightly better?
-What's the best way to pass the time at a boring desk job?
-What did a school teacher say that stuck with you?
-What “words of wisdom” have always stuck with you?
 "Fellow redditors, what was a moment where you thought a person you knew might be an actual psychopath ?"
 What's the best/scariest/most interesting 'internet rabbithole' you have found?
 "What was your ""ah shit, here we go again"" moment?"
 "Doctors of reddit, what made you say ""how the fuck is this person still alive""?"
 "God has become tired of humanity, recently retired and left you in charge. Do you leave the rules exactly as they currently are and if not, what changes will you be making?"
-What movie was better than the book and why ?
+
 What old insults need to make a comeback?
 Gentlemen: What is a dead giveaway that a girl watches too much porn when you sleep with her?
 What was the most porno situation you’ve ever had?
 "Adults of reddit, what is something you should have mastered by now, but failed to do so?"
 "Redditors who were dating someone that went from ""I think I want to marry this person"" to ""I think I need a restraining order"", what happened?"
 "You choose a superpower, but every time you activate it you turn into a pig. What is it?"
-"Pizza delivery drivers of reddit, what was the most fucked up place you’ve ever stopped at?"
-"Teachers who regularly get invited to high school reunions, what are the most amazing transformations, common patterns, epic stories, saddest declines etc. you've seen through the years?"
-
-"What movie could have been over in 10 minutes, if the main character wasn't such a dumb ass?"
+""
 "If 0 is entirely evil and 100 is entirely good, what number are you? Why?"
-"With all the talk about walking out of Holmes and Watson, "
-What movies would be a lot shorter if the main character just did what the fuck they were told?
-"What is the one story you want to tell, that you can never fit into a conversation?"
-You're a reverse robber. You break into peoples home and leave stuff to confuse families. What things do you leave?
 
 "Atheists of reddit, what is one thing you admire about religion? Religious people of reddit, what is one thing you admire about atheism?"
 "With the adage ""nothing is ever deleted from the Internet"" in mind, what is something you HAVE seen vanish from the net?"
